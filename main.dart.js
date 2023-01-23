@@ -96065,7 +96065,7 @@ I(a){var s,r,q=A.a41()
 q=q.gzw(q)
 s=t.w
 r=a.i(s).f
-return new A.Lq(q+"/UnityLibrary/index.html",B.qj,a.i(s).f.a.a,r.a.b,new A.aWt(),B.uC,null)}}
+return new A.Lq(q+"/speleoteste/UnityLibrary/index.html",B.qj,a.i(s).f.a.a,r.a.b,new A.aWt(),B.uC,null)}}
 A.aWt.prototype={
 $1(a){},
 $S:507}
