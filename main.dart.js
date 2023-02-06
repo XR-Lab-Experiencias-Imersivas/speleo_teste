@@ -112573,7 +112573,7 @@ if(b3==null)b3=""
 b4=J.d(a6,"num_cpf")
 if(b4==null)b4=""
 b5=J.d(a6,"participante_tarefa")!=null?J.d(J.d(J.d(a6,"participante_tarefa"),0),"idt_ass"):"N"
-b6=J.d(J.d(J.d(a6,"participante_tarefa"),0),"dat_ass")!=null?A.fF(J.d(J.d(J.d(a6,"participante_tarefa"),0),"dat_ass")):null
+b6=J.d(a6,"participante_tarefa")!=null?A.fF(J.d(J.d(J.d(a6,"participante_tarefa"),0),"dat_ass")):null
 J.aH(k,new A.Hk(b1,b2,b3,b4,b5,b6))}for(a9=J.a9(a3.a);a9.u();){a7=a9.gE(a9)
 J.d(a7,"cod_usu")
 J.aH(j,new A.Hk(J.d(a7,"nom_usu"),J.d(J.d(a7,"empresa"),"nom_emp"),J.d(a7,"des_mat"),J.d(a7,"num_cpf"),"S",null))}J.d(J.d(J.mF(i),0),"cod_taf")
