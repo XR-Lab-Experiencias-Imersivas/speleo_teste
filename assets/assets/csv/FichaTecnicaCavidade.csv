@@ -1,0 +1,10 @@
+CAV_0006, S11D (Cav), Ativo, Carajás, Serra Sul, PA, Canaã dos Carajás, Carste, 10.6, 3.5, 19, 29, 1, 573803, 9291311, 810, SAD-69, Não, Não, Alta, IN_2009;
+CAV_0007, S11D (Cav), Ativo, Carajás, Serra Sul, PA, Canaã dos Carajás, Carste, 8.5, 2.8, 122, 38, 1, 573804, 9291314, 810, SAD-69, Sim, Não, Alta, IN_2009;
+CAV_0008, S11D (Cav), Ativo, Carajás, Serra Sul, PA, Canaã dos Carajás, Carste, 14, 0.5, 48, 36, 1, 573995,9291169,760,SAD-69, Não, Não, Alta, IN_2009;
+CAV_0009, S11D (Cav), Ativo, Carajás, Serra Sul, PA, Canaã dos Carajás, Carste, 10.2, 1.8, 115, 90.6, 1, 574603, 9290084, 547, SAD-69, Não, Não, Alta, IN_2009;
+CAV_0024, S11D (Cav), Ativo, Carajás, Serra Sul, PA, Canaã dos Carajás, Carste, 13, 0.1, 17, 27, 1, 570140, 9291903, 800, SAD-69, Não, Sim, Alta, IN_2009;
+N4E_0086, N4E, Inativo, Carajás, Serra Norte, PA, Parauapebas, FCCM, 15.5, 1.7, 65, 41, Entrada I, 592917, 9332868, 662, SAD-69, Sim, Não, Alta, IN_2009;
+N4E_0015, N4E, Inativo, Carajás, Serra Norte, PA, Parauapebas, FCCM, 65, 6, 576, 238, Entrada I, 592979, 9332740, 662, SAD-69, Sim, Não, Alta, IN_2009;
+N4E_0023, N4E, Ativo, Carajás, Serra Norte, PA, Parauapebas, FCCM, 65, 5.6, 493, 216, Entrada I, 592000, 9332998, 541, SAD-69, Sim, Não, Máxima, IN_2009;
+N4E_0037, N4E, Inativo, Carajás, Serra Norte, PA, Parauapebas, FCCM, 11.2, 1.2, 20, 15.4, Entrada I, 592936, 9332818, 656, SAD-69, Não, Não, Alta, IN_2009;
+MP_0008, Mina do Pico, Ativo, Quadrilátero Ferrifero, Quadrilátero Oeste, MG, Itabirito, Carste, 96.40, 7.32, 206.89, 313.23, 1, 619784, 7764791, 1563, SAD-69, Sim, Sim, Máxima, IN_2009;
